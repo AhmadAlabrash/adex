@@ -7,7 +7,9 @@ Google font
 ``` html
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap" rel="stylesheet">
+<link
+  href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Source+Sans+Pro:wght@600;700&display=swap"
+  rel="stylesheet">
 ```
 
 Ionicon
@@ -22,69 +24,70 @@ Ionicon
 ## Colors
 
 ``` css
---violet-blue-crayola: hsla(234, 50%, 64%, 1);
---dark-cornflower-blue_a7: hsla(214, 88%, 27%, 0.07);
---white: hsla(0, 0%, 100%, 1);
---white_a3: hsla(0, 0%, 100%, 0.03);
---white_a8: hsla(0, 0%, 100%, 0.08);
---white_a12: hsla(0, 0%, 100%, 0.12);
---white_a70: hsla(0, 0%, 100%, 0.7);
---cultured: hsla(220, 20%, 97%, 1);
---lavender-web: hsla(233, 52%, 94%, 1);
---cadet-blue-crayola: hsla(220, 12%, 70%, 1);
---cadet-blue-crayola_a20: hsla(222, 23%, 71%, 0.2);
---charcoal: hsla(218, 22%, 26%, 1);
---raisin-black: hsla(216, 14%, 14%, 1);
---light-gray: hsla(0, 0%, 79%, 1);
---blue-crayola: hsla(219, 72%, 56%, 1);
---black-coral: hsla(220, 12%, 43%, 1);
+--st-patricks-blue: hsl(236, 57%, 28%);
+--amaranth-purple: hsl(335, 88%, 38%);
+--royal-blue-dark: hsl(231, 68%, 21%);
+--chrome-yellow: hsl(39, 100%, 52%);
+--space-cadet-1: hsl(230, 41%, 25%);
+--space-cadet-2: hsl(230, 59%, 16%);
+--winter-sky_50: hsla(335, 87%, 53%, 0.5);
+--purple-navy: hsl(236, 26%, 43%);
+--ksu-purple: hsl(275, 54%, 33%);
+--winter-sky: hsl(335, 87%, 53%);
+--razzmatazz: hsl(335, 87%, 51%);
+--platinum: hsl(0, 0%, 90%);
+--black_70: hsla(0, 0%, 0%, 0.7);
+--rajah: hsl(29, 99%, 67%);
+--white: hsl(0, 0%, 100%);
+
+--gradient-1: linear-gradient(90deg,var(--royal-blue-dark) 0,var(--ksu-purple) 51%,var(--royal-blue-dark));
+--gradient-2: linear-gradient(90deg,var(--razzmatazz) ,var(--rajah));
 ```
 
 ## Typography
 
 ``` css
---ff-manrope: 'Manrope', sans-serif;
+--ff-source-sans-pro: 'Source Sans Pro', sans-serif;
+--ff-poppins: 'Poppins', sans-serif;
 
---fs-1: calc(2.7rem + 1.38vw);
---fs-2: calc(2.6rem + .66vw);
---fs-3: 2.2rem;
---fs-4: 1.9rem;
---fs-5: 1.8rem;
---fs-6: 1.7rem;
---fs-7: 1.5rem;
---fs-8: 1.4rem;
+--fs-1: 4.2rem;
+--fs-2: 3.8rem;
+--fs-3: 3.2rem;
+--fs-4: 2.5rem;
+--fs-5: 2.4rem;
+--fs-6: 2rem;
+--fs-7: 1.8rem;
+--fs-8: 1.5rem;
 
+--fw-500: 500;
+--fw-600: 600;
 --fw-700: 700;
-```
-
-## Spacing
-
-``` css
---section-padding: 90px;
-```
-
-## Shadow
-
-``` css
---shadow-1: 0 0 20px hsla(216, 14%, 14%, 0.05);
---shadow-2: 0 0 0 0.05rem hsla(214, 88%, 27%, 0.08), 0 0 1.25rem hsla(216, 14%, 14%, 0.06);
---shadow-3: 0 0 1.25rem hsla(216, 14%, 14%, 0.04);
 ```
 
 ## Border Radius
 
 ``` css
---radius-circle: 50%;
---radius-pill: 100px;
---radius-10: 10px;
---radius-8: 8px;
---radius-6: 6px;
+--radius-4: 4px;
+--radius-12: 12px;
+```
+
+## Spacing
+
+``` css
+--section-padding: 60px;
 ```
 
 ## Transition
 
 ``` css
---transition-1: 0.25s ease;
---transition-2: 0.5s ease;
---transition-3: 0.3s ease-in-out;
+--transition-1: 0.15s ease;
+--transition-2: 0.35s ease;
+--cubic-in: cubic-bezier(0.51, 0.03, 0.64, 0.28);
+--cubic-out: cubic-bezier(0.33, 0.85, 0.56, 1.02);
+```
+
+## Shadow
+
+``` css
+--shadow: 0 5px 20px 1px hsla(220, 63%, 33%, 0.1);
 ```

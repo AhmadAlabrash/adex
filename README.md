@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/adex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/adex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/adex?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/desinic?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/5Bl3CCizSRQ?style=social)](https://youtu.be/5Bl3CCizSRQ)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/SjhiZ_ySGzA?style=social)](https://youtu.be/SjhiZ_ySGzA)
 
   <br />
   <br />
 
-  <h2 align="center">Adex - Business Agency Website</h2>
+  <h2 align="center">Desinic - Agency website</h2>
 
-  Adex is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/adex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Adex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Adex** locally, run this command on your git bash:
+To run **Desinic** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/adex.git
+sudo git clone https://github.com/codewithsadee/desinic.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/adex.git
+git clone https://github.com/codewithsadee/desinic.git
 ```
 
 ### Contact
@@ -51,4 +51,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is **free to use** and does not contains any license.

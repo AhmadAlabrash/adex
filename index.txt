@@ -1,210 +1,201 @@
-Adex 
-
-This is a business agency html template made by codewithsadee
+Desinic - Get Best UI Design
 
 
 
-#---------- HEADER ----------#
+#......... HEADER ..........#
 
-alt = Adex home
+Desinic
 
-aria-label = close menu
-<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+Desinic
+
+aria-labe = Close Menu
+<ion-icon name="close-outline"></ion-icon>
 
 Home
 About
-Projects
+Services
+Features
 Blog
-Contact
-
-info@email.com
-00 (123) 456 78 90
-
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-dribbble"></ion-icon>
-<ion-icon name="logo-instagram"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
-
-Free Trial
-
-aria-label = open menu
-<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
-
-
-
-#---------- HERO ----------#
-
-Crafting project specific solutions with expertise.
-
-We’re a creative company that focuses on establishing long-term relationships with customers.
-
-Explore Now
 Contact Us
 
-alt = hero banner
+<ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
+Get A Quote
 
-aria-label = play adex intro
-<ion-icon name="play" aria-hidden="true"></ion-icon>
-
-aria-label = slide to previous
-<ion-icon name="arrow-back"></ion-icon>
-
-aria-label = slide to next
-<ion-icon name="arrow-forward"></ion-icon>
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
 
 
 
-#---------- SERVICE ----------#
+#......... HERO ..........#
 
-What We Do?
+We Are Product Designer From UK
 
-The service we offer is specifically designed to meet your needs.
+We Design Interfaces That Users Love
 
-<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-24/7 Support
-Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus cras justo.
+Morbi sed lacus nec risus finibus feugiat et fermentum nibh. Pellentesque vitae ante at elit fringilla ac at purus.
 
 Learn More
-<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
 
-<ion-icon name="shield-checkmark-outline" aria-hidden="true"></ion-icon>
-Secure Payments
-
-<ion-icon name="cloud-download-outline" aria-hidden="true"></ion-icon>
-Daily Updates
-
-<ion-icon name="pie-chart-outline" aria-hidden="true"></ion-icon>
-Market Research
+alt = hero-banner
 
 
 
-
-#---------- ABOUT ----------#
+#......... ABOUT ..........#
 
 alt = about banner
 
-Why Choose Us?
+Why Our Agency
 
-We bring solutions to make life easier for our clients.
+In dictum aliquam turpis lacinia iaculis. Fusce vel malesuada magna. Nulla vel maximus risus. Donec volutpat metus lacinia risus accumsan, ac bibendum libero efficitur. Pellentesque nec nisi sit amet magna tempus hendrerit ut a odio.
 
-<ion-icon name="chevron-down-outline" aria-hidden="true" class="down"></ion-icon>
-Professional Design
+Praesent rhoncus commodo tortor, id pulvinar nisl blandit at. Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
+9875
+Satisfied Clients
 
-Top-Notch Support
+7894
+Project Lunched
 
-Exclusive Assets
-
-
-
-#---------- FEATURE ----------#
-
-alt = feature banner
-
-Our Solutions
-
-We make your spending stress-free for you to have the perfect control.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus.
-
-<ion-icon name="checkmark" aria-hidden="true"></ion-icon>
-Aenean quam ornare. Curabitur blandit.
-
-Nullam quis risus eget urna mollis ornare.
-
-Etiam porta euismod malesuada mollis.
-
-Vivamus sagittis lacus vel augue rutrum.
+65
+Years Completed
 
 
 
-#---------- STATS ----------#
-
-7518
-Completed Projects
-
-3472
-Happy Customers
-
-2184
-Expert Employees
-
-4523
-Awards Won
 
 
+#......... SERVICE ..........#
 
-#---------- PROJECTS ----------#
+Our Speciallization
 
-Case Studies
+<ion-icon name="telescope-outline"></ion-icon>
 
-Check out some of our awesome projects with creative ideas and great design.
+Strategy & Research
 
-alt = Ligula tristique quis risus
+Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.
 
-Ligula tristique quis risus
+aria-label = Show More
+<ion-icon name="chevron-forward-outline"></ion-icon>
 
-Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor.
+<ion-icon name="desktop-outline"></ion-icon>
+Web Development
 
-<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
-14 Apr 2022
-
-<ion-icon name="document-text-outline" aria-hidden="true"></ion-icon>
-Coding
-
-alt = Nullam id dolor elit id nibh
-
-Nullam id dolor elit id nibh
-
-29 Mar 2022
-Workspace
-
-alt = Ultricies fusce porta elit
-
-Ultricies fusce porta elit
-
-26 Feb 2022
-Meeting
+<ion-icon name="globe-outline"></ion-icon>
+Web Solution
 
 
 
-#---------- CTA ----------#
-
-Join our community by using our services and grow your business.
-
-Try it For Free
 
 
+#......... FEATURES ..........#
 
-#---------- FOOTER ----------#
+Our Features
 
-alt = Adex home
-&copy; 2022 codewithsadee. All rights reserved.
+<ion-icon name="bulb-outline"></ion-icon>
+Idea & Analysis
+
+Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.
+
+<ion-icon name="color-palette-outline"></ion-icon>
+Designing
+
+alt = Features Banner
+
+<ion-icon name="code-slash-outline"></ion-icon>
+Development
+
+<ion-icon name="rocket-outline"></ion-icon>
+Testing & Lunching
+
+
+
+
+
+#......... BLOG ..........#
+
+Our Blog & News
+
+alt = Vestibulum massa arcu, consectetu pellentesque scelerisque.
+
+Vestibulum massa arcu, consectetu pellentesque scelerisque.
+
+Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.
+
+<ion-icon name="time-outline"></ion-icon>
+7 March, 2022
+
+aria-label = Comment
+
+<ion-icon name="chatbubble-outline"></ion-icon>
+15
+
+aria-label = Share
+<ion-icon name="share-social-outline"></ion-icon>
+
+
+Quisque egestas iaculis felis eget placerat ut pulvinar mi.
+
+Fusce sem ligula, imperdiet sed nisi sit amet, euismod posuere.
+
+Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.
+
+
+
+
+
+#......... FOOTER ..........#
+
+Desinic
+
+Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.
 
 <ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-dribbble"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
 
-Get in Touch
-Moonshine St. 14/05 Light City, London, United Kingdom
+Our links
 
-info@email.com
-00 (123) 456 78 90
-
-Learn More
-
+Home
 About Us
-Our Story
-Projects
-Terms of Use
+Services
+Team
+Blog
+
+Our Services
+
+Strategy & Research
+Web Development
+Web Solution
+Digital Marketing
+App Design
+
+Other links
+
+FAQ
+Portfolio
 Privacy Policy
+Terms & Conditions
+Support
 
-Our Newsletter
-Subscribe to our newsletter to get our news & deals delivered to you.
+Contact Us
 
-placeholder = Email Address
-Join
+<ion-icon name="call"></ion-icon>
++248-421-4313
++248-687-1365
+
+<ion-icon name="mail"></ion-icon>
+info@desinic.com
+help@desinic.com
+
+<ion-icon name="location"></ion-icon>
+Pontiac, Michigan, United States of America
+
+&copy; 2022 codewithsadee. All Right Reserved
+
+
+
+
+
+#......... GO TO TOP ..........#
+
+aria-label = Go To Top
+<ion-icon name="arrow-up-outline"></ion-icon>
